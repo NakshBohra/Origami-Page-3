@@ -1,0 +1,26 @@
+h1{
+    color:whitesmoke;
+}
+.header{
+    background-color:#6b6464;
+    display:flex;
+    justify-content:space-between;
+}
+.origami{
+    display:flex;
+    flex-wrap:wrap; 
+    justify-content:space-evenly;
+    border:2px solid black ;
+    border-radius:50px ;
+    margin: bottom 10px;
+    
+}
+.grid{
+    border-radius:20px ;
+    background-color:#ffebcd ;
+    margin: 15px;
+
+    width: 310px;
+    font-family: fantasy;
+    
+}
